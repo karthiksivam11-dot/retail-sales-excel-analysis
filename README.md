@@ -1,4 +1,5 @@
 # Retail Sales Analysis — Excel-Only Data Analyst Project
+![Dashboard](dashboard_screenshot.png)
 
 An end-to-end data analysis project built **entirely in Microsoft Excel** (no macros, no Python needed to use it). It covers the full analyst workflow: raw data → cleaning → feature engineering → analysis → dashboard → insights.
 
